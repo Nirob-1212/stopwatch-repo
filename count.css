@@ -1,0 +1,55 @@
+
+
+body{background-image:url('1706403.jpg');
+     background-repeat: no-repeat;
+      background-size:100%; 
+      background-size: cover;
+       background-color: rgba(37, 36, 36, 0); 
+    }
+
+h2{color:rgb(231, 231, 231); 
+    text-align: center; 
+  }
+
+.container{
+    background-color: rgba(240, 248, 255, 0.425);
+    border:1px solid rgba(255, 255, 255, 0);
+    width:800px;
+    height:300px; 
+    margin:auto;
+    box-shadow: 5px 5px 10px 2px rgba(255, 255, 255, 0.527);
+}
+
+
+.counting-sec{
+    margin:auto;
+    text-align: center;
+    justify-content: center;
+}
+.btn-sec{
+    margin:auto; 
+    text-align: center;
+    justify-content: center;
+}
+
+
+/*button are all in here*/
+
+.btn{
+     width:110px;
+     height:42px; 
+     color:rgb(243, 243, 243); 
+     background-color:rgba(121, 223, 117, 0.726); 
+     border-radius: 5%; 
+     border:1px solid #fffefe; 
+     cursor:pointer; 
+     box-shadow:  5px 5px 10px 2px rgba(255, 255, 255, 0.788); margin-left: 14px;
+    }
+
+.hrs{color:white; font-size:70px; margin-left: 40px;}
+.min{color:white; font-size:70px; margin-left: 40px;}
+.sec{color:white; font-size:70px; margin-left: 40px;}
+
+
+
+
